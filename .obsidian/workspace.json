@@ -1,0 +1,197 @@
+{
+  "main": {
+    "id": "bd56ac8d0b59a62d",
+    "type": "split",
+    "children": [
+      {
+        "id": "726bba692814f546",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a901afaed321e345",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cf5ba458769bbc55",
+    "type": "split",
+    "children": [
+      {
+        "id": "98563b10cd9f545d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dc4d35eec4286d59",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "53a607537ac14dae",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "afa86dca5524c0b6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c20dc62860644f6a",
+    "type": "split",
+    "children": [
+      {
+        "id": "a047cfb1996401a5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e2ddca670e5b59fc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Основы гидродинамики и теплообмена.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Основы гидродинамики и теплообмена"
+            }
+          },
+          {
+            "id": "4c2602b4742bbb7b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Основы гидродинамики и теплообмена.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Основы гидродинамики и теплообмена"
+            }
+          },
+          {
+            "id": "e8f3ab3c0edff117",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "fdb406d50ce7a3bf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Основы гидродинамики и теплообмена.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Основы гидродинамики и теплообмена"
+            }
+          },
+          {
+            "id": "83ebacad02135d22",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "a901afaed321e345",
+  "lastOpenFiles": [
+    "Основы гидродинамики и теплообмена/Уравнение энергии и перенос тепла в движущейся среде.md",
+    "README.md",
+    "prg-5.png",
+    "Основы гидродинамики и теплообмена.md",
+    "test_labbook/Untitled.canvas",
+    "test_labbook",
+    "Основы гидродинамики и теплообмена",
+    "^.md",
+    "3.1.md",
+    "Untitled.canvas",
+    "ready.md",
+    "Untitled 1.canvas"
+  ]
+}
