@@ -11,17 +11,33 @@
             "id": "a901afaed321e345",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Основы гидродинамики и теплообмена/Уравнение энергии и перенос тепла в движущейся среде.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Уравнение энергии и перенос тепла в движущейся среде"
+              "icon": "diff",
+              "title": "Diff: workspace.json"
+            }
+          },
+          {
+            "id": "23031163cf672fb3",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "Основы гидродинамики и теплообмена/Уравнение энергии и перенос тепла в движущейся среде.md",
+                "bFile": "Основы гидродинамики и теплообмена/Уравнение энергии и перенос тепла в движущейся среде.md",
+                "aRef": "HEAD",
+                "bRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: Уравнение энергии и перенос тепла в движущейся среде"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -179,10 +195,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "83ebacad02135d22",
+  "active": "23031163cf672fb3",
   "lastOpenFiles": [
-    "git",
     "Основы гидродинамики и теплообмена/Уравнение энергии и перенос тепла в движущейся среде.md",
+    "conflict-files-obsidian-git.md",
+    "git",
     "README.md",
     "prg-5.png",
     "Основы гидродинамики и теплообмена.md",
