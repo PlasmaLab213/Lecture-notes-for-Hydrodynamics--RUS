@@ -4,40 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "726bba692814f546",
+        "id": "e31dd015a30f7922",
         "type": "tabs",
         "children": [
           {
-            "id": "a901afaed321e345",
+            "id": "6123ad16b2954436",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "Основы гидродинамики и теплообмена/Перенос тепла в движущейся среде.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
-            }
-          },
-          {
-            "id": "23031163cf672fb3",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "Основы гидродинамики и теплообмена/Уравнение энергии и перенос тепла в движущейся среде.md",
-                "bFile": "Основы гидродинамики и теплообмена/Уравнение энергии и перенос тепла в движущейся среде.md",
-                "aRef": "HEAD",
-                "bRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: Уравнение энергии и перенос тепла в движущейся среде"
+              "icon": "lucide-file",
+              "title": "Перенос тепла в движущейся среде"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -195,9 +179,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "23031163cf672fb3",
+  "active": "6123ad16b2954436",
   "lastOpenFiles": [
-    "Основы гидродинамики и теплообмена/Уравнение энергии и перенос тепла в движущейся среде.md",
+    "2025-02-20.md",
+    "Основы гидродинамики и теплообмена/Программа.md",
+    "Основы гидродинамики и теплообмена/Перенос тепла в движущейся среде.md",
+    "Основы гидродинамики и теплообмена/Untitled",
     "conflict-files-obsidian-git.md",
     "git",
     "README.md",
