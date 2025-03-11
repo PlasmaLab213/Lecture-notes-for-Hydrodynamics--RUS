@@ -4,11 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "e31dd015a30f7922",
+        "id": "726bba692814f546",
         "type": "tabs",
         "children": [
           {
-            "id": "6123ad16b2954436",
+            "id": "a901afaed321e345",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: workspace.json"
+            }
+          },
+          {
+            "id": "23031163cf672fb3",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -22,7 +36,7 @@
             }
           },
           {
-            "id": "bb375444f8db134d",
+            "id": "7b196b6aff13f845",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -36,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -194,19 +208,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bb375444f8db134d",
+  "active": "dc4d35eec4286d59",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Основы гидродинамики и теплообмена/18. Сжимаемые течения.md",
     "Pasted image 20250311123437.png",
     "Pasted image 20250311122853.png",
-    "Основы гидродинамики и теплообмена/15. Перенос тепла в движущейся среде.md",
-    "Основы гидродинамики и теплообмена/18. Сжимаемые течения.md",
     "Pasted image 20250304090234.png",
     "Pasted image 20250304082838.png",
+    "Основы гидродинамики и теплообмена/15. Перенос тепла в движущейся среде.md",
     "Основы гидродинамики и теплообмена/21. Магнитная гидродинамика.md",
     "Основы гидродинамики и теплообмена/Программа.md",
     "2025-02-20.md",
-    "Основы гидродинамики и теплообмена/Untitled",
-    "conflict-files-obsidian-git.md",
+    "Основы гидродинамики и теплообмена/Уравнение энергии и перенос тепла в движущейся среде.md",
     "git",
     "README.md",
     "prg-5.png",
