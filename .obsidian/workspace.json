@@ -8,107 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "23031163cf672fb3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Основы гидродинамики и теплообмена/3. Теория комплексного потенциала. Теория крыла бесконечного размаха.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "3. Теория комплексного потенциала. Теория крыла бесконечного размаха"
-            }
-          },
-          {
-            "id": "a965827a0ac8a846",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Основы гидродинамики и теплообмена/7. Устойчивость вязких сдвиговых течений.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "7. Устойчивость вязких сдвиговых течений"
-            }
-          },
-          {
-            "id": "f9d2e4de8087c97b",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2025-10-28 08.34.10.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-10-28 08.34.10.excalidraw"
-            }
-          },
-          {
-            "id": "d3739fe8c596a3c3",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2025-10-13 11.00.34.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-10-13 11.00.34.excalidraw"
-            }
-          },
-          {
-            "id": "59e66f16ecd9495f",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2025-10-13 08.26.37.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-10-13 08.26.37.excalidraw"
-            }
-          },
-          {
-            "id": "df088e1fbce492cb",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2025-10-13 09.12.04.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-10-13 09.12.04.excalidraw"
-            }
-          },
-          {
-            "id": "04c7e274708b8773",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2025-09-28 07.48.55.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-09-28 07.48.55.excalidraw"
-            }
-          },
-          {
-            "id": "a69e4ca65166fdcf",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2025-09-29 05.56.47.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-09-29 05.56.47.excalidraw"
-            }
-          },
-          {
-            "id": "7b196b6aff13f845",
+            "id": "9ed0fd0837f0c39d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -120,9 +20,22 @@
               "icon": "lucide-file",
               "title": "15. Перенос тепла в движущейся среде"
             }
+          },
+          {
+            "id": "880cbf304c2ee8d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Основы гидродинамики и теплообмена/18. Сжимаемые течения.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "18. Сжимаемые течения"
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -282,39 +195,40 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "a965827a0ac8a846",
+  "active": "9ed0fd0837f0c39d",
   "lastOpenFiles": [
+    "Основы гидродинамики и теплообмена/18. Сжимаемые течения.md",
+    "Основы гидродинамики и теплообмена/15. Перенос тепла в движущейся среде.md",
+    "Excalidraw/Drawing 2025-09-29 05.56.47.excalidraw.md",
+    "Основы гидродинамики и теплообмена/3. Теория комплексного потенциала. Теория крыла бесконечного размаха.md",
+    "Основы гидродинамики и теплообмена/2. Невязкое несжимаемое течение.md",
+    "Основы гидродинамики и теплообмена/1. Уравнения гидродинамики. Несжимаемые течения.md",
+    "Основы гидродинамики и теплообмена/8. Турбулентность.md",
+    "Excalidraw/Drawing 2025-10-28 08.34.10.excalidraw.md",
+    "Excalidraw/Drawing 2025-11-02 23.59.52.excalidraw.md",
+    "Excalidraw/Drawing 2025-10-13 11.00.34.excalidraw.md",
+    "Excalidraw/Drawing 2025-10-13 09.12.04.excalidraw.md",
+    "Excalidraw/Drawing 2025-10-13 08.26.37.excalidraw.md",
+    "Excalidraw/Drawing 2025-09-28 07.48.55.excalidraw.md",
+    "Excalidraw/Drawing 2025-09-20 17.35.07.excalidraw.md",
+    "Excalidraw/Drawing 2025-09-14 14.06.28.excalidraw.md",
+    "Excalidraw/Drawing 2025-09-14 13.26.35.excalidraw.md",
+    "Excalidraw/Drawing 2025-09-14 13.03.48.excalidraw.md",
+    "Основы гидродинамики и теплообмена/7. Устойчивость вязких сдвиговых течений.md",
     "Pasted image 20251028092445.png",
     "Pasted image 20251028092436.png",
     "Pasted image 20251028092428.png",
-    "Excalidraw/Drawing 2025-10-28 08.34.10.excalidraw.md",
-    "Основы гидродинамики и теплообмена/7. Устойчивость вязких сдвиговых течений.md",
-    "Основы гидродинамики и теплообмена/3. Теория комплексного потенциала. Теория крыла бесконечного размаха.md",
-    "Excalidraw/Drawing 2025-10-13 11.00.34.excalidraw.md",
     "Pasted image 20251027090831.png",
     "Pasted image 20251027090822.png",
     "Pasted image 20251027090818.png",
     "Pasted image 20251027090809.png",
     "Pasted image 20251027090758.png",
     "Основы гидродинамики и теплообмена/4. Неустойчивость тангенциального разрыва. Неустойчивости Рэлея-Тейлора, Кельвина- Гельмгольца..md",
-    "Основы гидродинамики и теплообмена/18. Сжимаемые течения.md",
     "Основы гидродинамики и теплообмена/5. Вязкие течения. Уравнения Навье- Стокса.md",
-    "Excalidraw/Drawing 2025-09-28 07.48.55.excalidraw.md",
-    "Excalidraw/Drawing 2025-10-13 09.12.04.excalidraw.md",
     "Основы гидродинамики и теплообмена/6. Уравнения пограничного слоя.md",
-    "Основы гидродинамики и теплообмена/2. Невязкое несжимаемое течение.md",
-    "Excalidraw/Drawing 2025-10-13 08.26.37.excalidraw.md",
-    "Основы гидродинамики и теплообмена/15. Перенос тепла в движущейся среде.md",
-    "Основы гидродинамики и теплообмена/8. Турбулентность.md",
-    "Excalidraw/Drawing 2025-09-14 13.03.48.excalidraw.md",
     "Основы гидродинамики и теплообмена/21. Магнитная гидродинамика.md",
     "scripts/1.emf",
-    "Excalidraw/Drawing 2025-09-29 05.56.47.excalidraw.md",
     "Excalidraw/Drawing 2025-09-20 17.35.07.excalidraw.restored.md",
-    "Excalidraw/Drawing 2025-09-20 17.35.07.excalidraw.md",
-    "Excalidraw/Drawing 2025-09-14 14.06.28.excalidraw.md",
-    "Excalidraw/Drawing 2025-09-14 13.26.35.excalidraw.md",
-    "Основы гидродинамики и теплообмена/1. Уравнения гидродинамики. Несжимаемые течения.md",
     "80776144832d5cd2aca11748ff5bfb639fa6b18b.jpg",
     "scripts/ideal_fluid.m",
     "scripts",
@@ -322,7 +236,6 @@
     "Untitled 1.md",
     "Pasted image 20250316114248.png",
     "conflict-files-obsidian-git.md",
-    "Pasted image 20250921163331.png",
     "Excalidraw",
     "Основы гидродинамики и теплообмена/Программа.md",
     "git",
